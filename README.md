@@ -1,1 +1,2 @@
 # tic-tac-toe
+Solution for Ondin Project tic-tac-toe project. Through the process of developing the game, I was able to learn and understand more about methods and how to use them within other methods to the point that the game itself only has a few lines since it is drawing the code from the other methods. Yet, I realized I need to understand better Modules.
